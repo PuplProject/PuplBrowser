@@ -1,1 +1,2 @@
-A lightweight and super modular browser. Everything you will ever need is in your hands.
+# `Installer Branch`
+- Here will be the installer source code.
